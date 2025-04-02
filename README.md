@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Im a Student that trys to get Github Education working.
 <!--
 **ercaon/ercaon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
